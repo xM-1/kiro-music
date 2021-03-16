@@ -1,7 +1,7 @@
 {
-  "name": "EvoBot",
+  "name": "Kiro-Music",
   "description": "🤖 Discord Music Bot built with discord.js",
-  "repository": "https://github.com/eritislami/evobot",
-  "logo": "https://i.imgur.com/JFxgbWH.png",
+  "repository": "https://github.com/xM-1/kiro-music",
+  "logo": "https://c4.wallpaperflare.com/wallpaper/158/122/422/anime-anime-boys-jujutsu-kaisen-yuji-itadori-sakuna-hd-wallpaper-preview.jpg",
   "keywords": ["discord", "discordjs", "music", "bot"]
 }
